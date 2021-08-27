@@ -2,7 +2,7 @@
 💻 >> French DEV. 
 ```
 
-h4 align="center"><b>"Just coding for fun..."</b></h4>
+<h4 align="center"><b>"Just coding for fun..."</b></h4>
 
 <h1 align="center">LANGUAGE</h1>
 
