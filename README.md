@@ -3,6 +3,7 @@
 ```diff
 ⚕️ >> French
 ⚕️ >> 15
+⚕️ >> Blueberry theme >>>
 ```
 
 <h1 align="center">LANGUAGE</h1>
