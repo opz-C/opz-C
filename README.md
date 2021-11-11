@@ -4,7 +4,7 @@
 💻 >> French DEV. 
 ```
 
-<h4 align="center"><b>"What i made..."</b></h4>
+<h4 align="center"><b>"What i made"</b></h4>
 
 
 **__⚕️ >> [Discord Stream Status](https://github.com/punch-hax/Stream-Status)__**
