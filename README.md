@@ -3,8 +3,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 <h1 align="center">ABOUT ME</h1>
 
