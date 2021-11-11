@@ -1,9 +1,3 @@
-<h4 align="center"><b>"Just coding for fun..."</b></h4>
-
-<br />
-<br />
-<br />
-
 <h1 align="center">ABOUT ME</h1>
 
 <br />
