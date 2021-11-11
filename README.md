@@ -4,6 +4,12 @@
 💻 >> French DEV. 
 ```
 
+<h4 align="center"><b>"What i made..."</b></h4>
+
+```diff
+💻 >> Discord Stream Status
+```
+
 <h1 align="center">LANGUAGE</h1>
 
 
