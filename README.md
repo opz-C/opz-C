@@ -13,7 +13,7 @@
 ```diff
 ⚕️ >> French
 ⚕️ >> 15
-⚕️ >> Blueberry theme >>> all
+⚕️ >> Advanced in PY, learning JS
 ```
 <br />
 <br />
