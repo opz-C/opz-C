@@ -6,7 +6,7 @@
 
 <h4 align="center"><b>"What i made"</b></h4>
 
-<h4 align="center"><b>"[Discord Stream Status]"</b></h4>
+<h4 align="center"><b>[Discord Stream Status]</b></h4>
 
 
 <h1 align="center">LANGUAGE</h1>
