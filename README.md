@@ -1,10 +1,8 @@
 <h4 align="center"><b>"Just coding for fun..."</b></h4>
 
 ```diff
-💻 >> French DEV. 
+- Sltcv
 ```
-
-<h4 align="center"><b>"What i made"</b></h4>
 
 ```diff
 ⚕️ >> Stream Status
