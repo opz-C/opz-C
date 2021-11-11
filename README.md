@@ -6,6 +6,8 @@
 <br />
 <br />
 
+<h1 align="center">ABOUT ME</h1>
+
 ```diff
 ⚕️ >> French
 ⚕️ >> 15
