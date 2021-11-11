@@ -7,7 +7,7 @@
 <h4 align="center"><b>"What i made..."</b></h4>
 
 
-**>> [Discord Stream Status](https://github.com/punch-hax/Stream-Status)**
+**__⚕️ >> [Discord Stream Status](https://github.com/punch-hax/Stream-Status)__**
 
 
 <h1 align="center">LANGUAGE</h1>
