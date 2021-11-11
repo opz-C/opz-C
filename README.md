@@ -4,8 +4,6 @@
 ⚕️ >> Advanced in PY, learning JS
 ```
 <br />
-<br />
-<br />
 
 <h1 align="center">LANGUAGE</h1>
 
